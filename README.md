@@ -1,1 +1,1 @@
-# Docker-setup-for-Vite-React
+# Docker setup for Vite + React
